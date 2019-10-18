@@ -1,0 +1,426 @@
+{
+    "exam5":  {
+        "quiz_id":"198",
+        "quiz_meta": {
+            "desc": "", "desc_img_src": "", "title": "UMWITOZO WA GATANU"
+        }
+        ,
+        "questions":[ {
+            "question": "Abayobozi bashobora kunyura mu nzira z&rsquo; impade z&rsquo; abanyamaguru mu gihe:", "img":"", "answers":[ {
+                "answer": "b)\tUbugari bw&rsquo; umuhanda budahagije kugira ngo ibisikana ryorohe", "img": ""
+            }
+            ,
+            {
+                "answer": "a)\tBashaka kwihuta ", "img": ""
+            }
+            ,
+            {
+                "answer": "c)\tNtabanyamagru bagenda muri iyo nzira.", "img": ""
+            }
+            ,
+            {
+                "answer": "d)\tB na c nibyo bisubizo by&rsquo; ukuri.", "img": ""
+            }
+            ]
+        }
+        ,
+        {
+            "question": "Iyo ikinyabiziga gihagaze ku nzira nyabagendwa umuyobozi wacyo adahari, umukozi ubifitiye ububasha ashobora kugikuzaho ariko ibyacyangirikaho n&rsquo;amafaranga yo kugikuzaho ntibibarwa kuri leta mu gihe:", "img":"", "answers":[ {
+                "answer": "b)\tCyahashyizwe binyuranije n&rsquo;amategeko yo guhagarara akanya gato cyangwa kanini ", "img": ""
+            }
+            ,
+            {
+                "answer": "a)\tCyahashyizwe n&rsquo; umuyobozi udafite uruhushya rwo kugitwara ", "img": ""
+            }
+            ,
+            {
+                "answer": "c)\tA na b n&rsquo; ibisubizo by&rsquo; ukuri ", "img": ""
+            }
+            ,
+            {
+                "answer": "d)\tNta gisubizo cy&rsquo; ukuri kirimo", "img": ""
+            }
+            ]
+        }
+        ,
+        {
+            "question":"ibyapa byo ku mihanda bigizwe gusa:",
+            "img":"",
+            "answers":[ {
+                "answer": "c)\tIbyapa biburira, ibyapa byo gutambuka mbere, ibimenyetso bibuza cyangwa bitegeka , n&rsquo; ibyapa ndanga.", "img": ""
+            }
+            ,
+            {
+                "answer": "a)\tIbyapa biburira", "img": ""
+            }
+            ,
+            {
+                "answer": "b)\tIbyapa byo gutambuka mbere", "img": ""
+            }
+            ,
+            {
+                "answer": "d)\tIbimenyetso bibuza cyangwa bitegeka", "img": ""
+            }
+            ]
+        }
+        ,
+        {
+            "question": "umurobngo ugizwe na mpandeshatu nyampanga zifite amasonga yerekeye aho abayobozi zireba baturuka, kandi uciye ku buryo bugororotse ku nkengero y&rsquo; umuhanda werekana:", "img":"", "answers":[ {
+                "answer": "b)\tAho abayozozi bagomba guhagarara akanya gato iyo bishoboka", "img": ""
+            }
+            ,
+            {
+                "answer": "a)\tAhanyurwa n&rsquo; abanyamaguru ", "img": ""
+            }
+            ,
+            {
+                "answer": "c)\tAhanyurwa n&rsquo; amagare", "img": ""
+            }
+            ,
+            {
+                "answer": "d)\tNta gisubizo cy&rsquo; ukuri kirimo", "img": ""
+            }
+            ]
+        }
+        ,
+        {
+            "question":"Iki cyapa gisobanura ko :",
+            "img":"https:\/\/ikizamini.com\/wp-content\/uploads\/2016\/08\/KijoXGeiq.png",
+            "answers":[ {
+                "answer": "b)\tHatanyurwa", "img": ""
+            }
+            ,
+            {
+                "answer": "a)\tHanyurwa mu cyerekezo kimwe", "img": ""
+            }
+            ,
+            {
+                "answer": "c)\tUmuhanda udakomeza", "img": ""
+            }
+            ,
+            {
+                "answer": "d)\tNta gisubizo cy&rsquo; ukuri kirimo ", "img": ""
+            }
+            ]
+        }
+        ,
+        {
+            "question":"umuyobozi uvuye mu nzira nyabagendwa ifite ibyererekezo bibiri akaba ashaka kwinjira muyindi ifite icyerekezo kimwe agomaba:",
+            "img":"",
+            "answers":[ {
+                "answer": "b)\tKureka ibinyabiziga bigendamo bigatambuka", "img": ""
+            }
+            ,
+            {
+                "answer": "a)\tGucana amatara magufi", "img": ""
+            }
+            ,
+            {
+                "answer": "c)\tA na b n&rsquo; ibisubizo by&rsquo; ukuri ", "img": ""
+            }
+            ,
+            {
+                "answer": "d)\tNta gisubizo cy&rsquo; ukuri kirimo", "img": ""
+            }
+            ]
+        }
+        ,
+        {
+            "question":"Iyo umuhanda ugabinyejwemo ibisate bitatu kand I ukaba ugendwamo mu byerekezo byombi, umuyobozi wese abujijwe:",
+            "img":"",
+            "answers":[ {
+                "answer": "b)\tKugendera mu gisate cyerekeye inkombe y&rsquo; ibumoso", "img": ""
+            }
+            ,
+            {
+                "answer": "a)\tKugendera mu gisate cyerekeye inkombe y&rsquo; iburyo.", "img": ""
+            }
+            ,
+            {
+                "answer": "c)\tKongera umuvuduko", "img": ""
+            }
+            ,
+            {
+                "answer": "d)\tA na c nibyo bisubizo by&rsquo; ukuri.", "img": ""
+            }
+            ]
+        }
+        ,
+        {
+            "question": "kunyuranaho mu ruhande rw&rsquo; ibumoso birabujijwe mu bihe bikurikira:", "img":"", "answers":[ {
+                "answer": "b)\tIyo umuyobozi unyurwaho yerekanye ko ashaka gukatira ibumoso", "img": ""
+            }
+            ,
+            {
+                "answer": "a)\tIyo ikinyabiziga kinyurwaho ari kirekire", "img": ""
+            }
+            ,
+            {
+                "answer": "c)\tA na b nibyo bisubizo by&rsquo; ukuri", "img": ""
+            }
+            ,
+            {
+                "answer": "d)\tNta gisubizo cy&rsquo; ukuri kirimo", "img": ""
+            }
+            ]
+        }
+        ,
+        {
+            "question":"Umuyobozi ubonye ko hari undi umukurikiye ashaka kumunyuraho agomba kubahiriza ibi bikurikira:",
+            "img":"",
+            "answers":[ {
+                "answer": "a)\tKwegera iruhande rw&rsquo; iburyo bw&rsquo; umuhanda", "img": ""
+            }
+            ,
+            {
+                "answer": "b)\tKongera umuvuduko ", "img": ""
+            }
+            ,
+            {
+                "answer": "c)\tGuhagarara", "img": ""
+            }
+            ,
+            {
+                "answer": "c)\tGuhagarara", "img": ""
+            }
+            ]
+        }
+        ,
+        {
+            "question":"umuyobozi wese agomba gushobora guharika ikinyabiziga cye akurikije ibi bikurikira:",
+            "img":"",
+            "answers":[ {
+                "answer": "c)\tImbere y&rsquo; inkomyi yose idatunguranye", "img": ""
+            }
+            ,
+            {
+                "answer": "a)\tUko ikinyabiziga giteye ", "img": ""
+            }
+            ,
+            {
+                "answer": "b)\tAho ageza amaso ", "img": ""
+            }
+            ,
+            {
+                "answer": "d)\tB na c nibyo bisubizo by&rsquo; ukuri ", "img": ""
+            }
+            ]
+        }
+        ,
+        {
+            "question": "Iyo nta mategeko awugabanya by&rsquo;umwihariko, umuvuduko ntarengwa w&rsquo;ibinyabiziga by&rsquo;ubuhinzi ni:", "img":"", "answers":[ {
+                "answer": "b.\tIbirometero 25 ku isaha", "img": ""
+            }
+            ,
+            {
+                "answer": "a.\tIbirometero 50 ku isaha", "img": ""
+            }
+            ,
+            {
+                "answer": "c.\tIbirometero 60 ku isaha", "img": ""
+            }
+            ,
+            {
+                "answer": "d.\tIbirometero 40 ku isaha", "img": ""
+            }
+            ]
+        }
+        ,
+        {
+            "question":"Abagendera mu nzira nyabagendwa babujijwe kwata:",
+            "img":"",
+            "answers":[ {
+                "answer": "c)\tA na B ni ibisubizo by&rsquo;ukuri", "img": ""
+            }
+            ,
+            {
+                "answer": "a)\tUmurongo w&rsquo;abasirikare bagenda cyangwa imirongo y&rsquo;ibinyabiziga by&rsquo;ingabo z&rsquo;igihugu zigenda mu muhanda", "img": ""
+            }
+            ,
+            {
+                "answer": "b)\tMu murongo w&rsquo;abanyeshuri bashorewe n&rsquo;umwarimu n&rsquo;uruhererekane", "img": ""
+            }
+            ,
+            {
+                "answer": "d)\tNta gisubizo cy&rsquo;ukuri kirimo", "img": ""
+            }
+            ]
+        }
+        ,
+        {
+            "question": "Kunyura ku binyabiziga bindi uretse icy&rsquo;ibiziga bibiri bibujijwe:", "img":"", "answers":[ {
+                "answer": "b)\tHafi y&rsquo;aho abanyamaguru banyura.", "img": ""
+            }
+            ,
+            {
+                "answer": "a)\tAko kanya mbere y&rsquo;uko no mu gihe bava mu masangano Atari ayo bagendamo bazengurutse iyo kugenda mu muhanda biyoborwa n&rsquo;ibimenyetso by&rsquo;umuriro", "img": ""
+            }
+            ,
+            {
+                "answer": "c)\tA na b nibyo bizubizo by&rsquo; ukuri.", "img": ""
+            }
+            ,
+            {
+                "answer": "d)\tNta gsibizo cy&rsquo; ukuri kirimo", "img": ""
+            }
+            ]
+        }
+        ,
+        {
+            "question": "Inkombe z&rsquo;inzira nyabagendwa cyangwa z&rsquo;umuhanda zishobora kugaragazwa:\r\n", "img":"", "answers":[ {
+                "answer": "c.\tN&rsquo;ibikoresho ngarurarumuri", "img": ""
+            }
+            ,
+            {
+                "answer": "a.\tN&rsquo;imirongo idacagaguye", "img": ""
+            }
+            ,
+            {
+                "answer": "b.\tN&rsquo;ibyapa byo ku mihanda", "img": ""
+            }
+            ,
+            {
+                "answer": "d.\tNta gisubizo cy&rsquo;ukuri kirimo", "img": ""
+            }
+            ]
+        }
+        ,
+        {
+            "question":"Ibyapa biburira nibyo gutambuka mbere birangwa: \r\n",
+            "img":"",
+            "answers":[ {
+                "answer": "d.\tNta gisubizo cy&rsquo;ukuri kirimo\r\n", "img": ""
+            }
+            ,
+            {
+                "answer": "a.\tIshusho mpandeshatu, ubuso ubururu, ikirango umukara", "img": ""
+            }
+            ,
+            {
+                "answer": "b.\tIshusho mpandeshatu, ubuso umweru, ikirango umukara", "img": ""
+            }
+            ,
+            {
+                "answer": "c.\tIshusho mpandeshatu, ubuso ubururu, ikirango umweru", "img": ""
+            }
+            ]
+        }
+        ,
+        {
+            "question":"Iyo kuva bwije kugeza bukeye, bitagishoboka kubona neza muri m 200, mu nzira nyabagendwa ibinyabiziga bihinga bigomba kugaragazwa mu buryo bukurikira:\r\n",
+            "img":"",
+            "answers":[ {
+                "answer": "a.\tInyuma ni amatara abiri atukura", "img": ""
+            }
+            ,
+            {
+                "answer": "b.\tImbere ni itara rimwe ryera", "img": ""
+            }
+            ,
+            {
+                "answer": "c.\tInyuma ni itara rimwe ritukura ", "img": ""
+            }
+            ,
+            {
+                "answer": "d.\tNta gisubizo cy&rsquo;ukuri kirimo", "img": ""
+            }
+            ]
+        }
+        ,
+        {
+            "question":"Umuyobozi wese agomba gushobora guhagarika ikinyabiziga cye akurikije ibi bikurikira:\r\n",
+            "img":"",
+            "answers":[ {
+                "answer": "d.\tB na C ni byo bisubizo by&rsquo;ukuri", "img": ""
+            }
+            ,
+            {
+                "answer": "a.\tUko ikinyabiziga giteye", "img": ""
+            }
+            ,
+            {
+                "answer": "b.\tAho ageza amaso ", "img": ""
+            }
+            ,
+            {
+                "answer": "c.\tImbere y&rsquo;inkomyi yose idatunguranye", "img": ""
+            }
+            ]
+        }
+        ,
+        {
+            "question": "Igice cy&rsquo;umuhanda kiri hakurya y&rsquo;umurongo mugari wera udacagaguye kigenewe:\r\n", "img":"", "answers":[ {
+                "answer": "c.\tGuhagararwamo umwanya munini n&rsquo;umuto keretse ku byerekeye imihanda irombereje y&rsquo;ibisate byinshi n&rsquo;imihanda y&rsquo;imodoka ", "img": ""
+            }
+            ,
+            {
+                "answer": "a.\tGuhagararwamo umwanya muto", "img": ""
+            }
+            ,
+            {
+                "answer": "b.\tGuhagararwamo umwanya munini cyeretse kubyerekeye imihanda irombereje y&rsquo;ibisate byinshi n&rsquo;imihanda y&rsquo;imodoka", "img": ""
+            }
+            ,
+            {
+                "answer": "d.\tNta gisubizo cy&rsquo;ukuri kirimo", "img": ""
+            }
+            ]
+        }
+        ,
+        {
+            "question": "Intangiriro n&rsquo;iherezo ry&rsquo;ahantu hahagararwa umwanya munini bishobora kugaragazwa na:\r\n", "img":"", "answers":[ {
+                "answer": "c.\tUmurongo wera udacagaguye wambukiranya umuhanda", "img": ""
+            }
+            ,
+            {
+                "answer": "a.     Umurongo w&rsquo;umuhondo udacagaguye wambukiranya umuhanda", "img": ""
+            }
+            ,
+            {
+                "answer": "b.\tUmurongo wera ucagaguye wambukiranya umuhanda", "img": ""
+            }
+            ,
+            {
+                "answer": "d.\tNta gisubizo cy&rsquo;ukuri kirimo", "img": ""
+            }
+            ]
+        }
+        ,
+        {
+            "question": "Itara ry&rsquo;icyatsi kibisi risa n&rsquo;akarangacyerekezo gafite isonga ryerekeye hasi risobanura ko:\r\n", "img":"", "answers":[ {
+                "answer": "b.\tByemewe kugenda kugisate cy&rsquo; umuhanda rigenga ku bayobozi bakigana", "img": ""
+            }
+            ,
+            {
+                "answer": "a.\tBitemewe kugenda kugisate cy&rsquo;umuhanda rigenga ", "img": ""
+            }
+            ,
+            {
+                "answer": "c.\tIbisubizo byose sibyo", "img": ""
+            }
+            ]
+        }
+        ],
+        "quiz_results":[ {
+            "title": "WATSINZWE!", "desc": "", "img": "", "min": 0, "max": 10
+        }
+        ,
+        {
+            "title": "WATSINZE", "desc": "", "img": "", "min": 11, "max": 20
+        }
+        ],
+        "quiz_settings": {
+            "hide_answers": "", "quiz_type": "mc"
+        }
+        ,
+        "wrong_string":"Wrong!",
+        "correct_string":"Correct!",
+        "your_answer_string":"Your answer:",
+        "correct_answer_string":"Correct answer:",
+        "optin_settings":[],
+        "nonce":"7825d1cf2a",
+        "ajaxurl":"https:\/\/ikizamini.com\/wp-admin\/admin-ajax.php",
+        "default_img":"https:\/\/ikizamini.com\/wp-content\/plugins\/quiz-cat\/assets\/quizcat-240x240.png",
+        "gdpr_checkbox":""
+    }
+}

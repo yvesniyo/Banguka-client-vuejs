@@ -1,0 +1,644 @@
+{
+    "exam2": {
+        "quiz_id":"76",
+        "quiz_meta": {
+            "desc": "", "desc_img_src": "", "title": "UMWITOZO WA KABIRI"
+        }
+        ,
+        "questions":[ {
+            "question":"Ibinyabiziga bikururwa n\u2019inyamaswa biherekeranyije mu butumwa bigomba kugabanywamo amatsinda afite uburebure butarengeje:\r\n",
+            "img":"",
+            "id":"{{ID}}",
+            "answers":[ {
+                "answer":"Metero 500 kandi hagati yayo hakaba nibura metero 30",
+                "img":"",
+                "id":"{{ID}}",
+                "hint": ""
+            }
+            ,
+            {
+                "answer":"Metero 500 kandi hagati yayo hakaba nibura metero 50",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Metero 300 kandi hagati yayo hakaba nibura metero 50",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Nta gisubizo kirimo",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ]
+        }
+        ,
+        {
+            "question":"\tAbanyamaguru bagenda mu muhanda igihe cya nijoro cyangwa hatabona neza, kimwe no kumanywa igihe hari ibinyabiziga byinshi bigenda bagomba kugenda ku murongo umwe keratse:\r\n",
+            "img":"",
+            "id":"{{ID}}",
+            "answers":[ {
+                "answer":"Iyo bagize uruhererekane",
+                "img":"",
+                "id":"{{ID}}",
+                "hint": ""
+            }
+            ,
+            {
+                "answer":"Iyo abanyamaguru ari benshi cyane\r\n",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Iyo bafite gahunda yihutirwa \r\n",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Nta gisubizo cy\u2019ukuri kirimo",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ]
+        }
+        ,
+        {
+            "question":"Umuyobozi w\u2019imodoka, cyangwa uw\u2019ikinyamitende itatu cyangwa ine bifite cyangwa bidafite moteri ntashobora kwemerera abandi bantu kwicarana nawe mu gihe umwe muri bo adafite umwanya wo kwicaramo ungana nibura:\r\n",
+            "img":"",
+            "id":"{{ID}}",
+            "answers":[ {
+                "answer":"Na santimetero 40 ",
+                "img":"",
+                "id":"{{ID}}",
+                "hint": ""
+            }
+            ,
+            {
+                "answer":"Na santimetero 30 ",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Na santimetero 55\r\n",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Nta gisubizo cy\u2019ukuri kirimo",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ]
+        }
+        ,
+        {
+            "question":"Ubugari bw\u2019imizigo yikorewe n\u2019ipikipiki ifite akanyabiziga ku ruhande kimwe n\u2019ubw\u2019iya rumoroki ikuruwe na bene icyo kinyabiziga ntibushobira kurenza:\r\n",
+            "img":"",
+            "id":"{{ID}}",
+            "answers":[ {
+                "answer":"Santimetero 30 ku bugari bw\u2019icyo kinyabiziga kidapakiye",
+                "img":"",
+                "id":"{{ID}}",
+                "hint": ""
+            }
+            ,
+            {
+                "answer":"Metero 1 na santimetero 25",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Santimetero kuri buri ruhande",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Santimetero 80\r\n",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ]
+        }
+        ,
+        {
+            "question":"Imizigo yikorewe n\u2019amagare, vlomoteri, amapikipiki, n\u2019ibinyamitende itatu n\u2019iby\u2019ine bifite cyangwa bidafite moteri ntibishobora kurenza:\r\n",
+            "img":"",
+            "id":"{{ID}}",
+            "answers":[ {
+                "answer":"Santimetero 50 ku mpera y\u2019inyuma y\u2019ikinyabiziga ",
+                "img":"",
+                "id":"{{ID}}",
+                "hint": ""
+            }
+            ,
+            {
+                "answer":"Santimetero 30 ku mpera y\u2019inyuma y\u2019ikinyabiziga",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Santimetero 75 ku mpera y\u2019imbere y\u2019ikinyabiziga",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Nta gisubizo cy\u2019ukuri kirimo",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ]
+        }
+        ,
+        {
+            "question":"Iyo umuvuduko w\u2019ikinyabiziga kidapakiye udashobora kurenga km 50 mu isaha ahategamye, kigomba kugira ihoni ryumvikana:\r\n",
+            "img":"",
+            "id":"{{ID}}",
+            "answers":[ {
+                "answer":"ku ntera ya metero 50 ",
+                "img":"",
+                "id":"{{ID}}",
+                "hint": ""
+            }
+            ,
+            {
+                "answer":"ku ntera ya metero 20",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"ku ntera ya metero 100",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"ku ntera ya metero 150",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ]
+        }
+        ,
+        {
+            "question":"\tIyo umukumbi ugizwe n\u2019amatungo maremare arenze ane cyangwa amagufi arenze atandatu ugaragazwa:\r\n",
+            "img":"",
+            "id":"{{ID}}",
+            "answers":[ {
+                "answer":"Nta gisubizo cy\u2019ukuri kirimo",
+                "img":"",
+                "id":"{{ID}}",
+                "hint": ""
+            }
+            ,
+            {
+                "answer":"N\u2019itara risa n\u2019icunga rihishije cyangwa ryera rimurika mu mpande zose",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"N\u2019itara ryera cyangwa ritukura ritwawe imbere y\u2019imukumbi",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"N\u2019itara ryera cyangwa ry\u2019umuhondo ritwawe inyuma y\u2019umukumbi",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ]
+        }
+        ,
+        {
+            "question":"\tIsonga y\u2019impombo yohereza ibyotsi ntishobora kwerekezwa:\r\n",
+            "img":"",
+            "id":"{{ID}}",
+            "answers":[ {
+                "answer":"Iburyo bw\u2019ikinyabiziga",
+                "img":"",
+                "id":"{{ID}}",
+                "hint": ""
+            }
+            ,
+            {
+                "answer":"Inyuma ahagana iburyo bw\u2019ikinyabiziga",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Inyuma cyangwa ibumoso bw\u2019ikinyabiziga",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"A na C ni ibisubizo by\u2019ukuri",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ]
+        }
+        ,
+        {
+            "question":"Muri ibi byapa bikurikira ni ikihe cyerekana ko umuyobozi ukibonye yemerewe gutambuka mbere y'abaturutse aho agana mu nzira ifunganye:",
+            "img":"",
+            "id":"{{ID}}",
+            "answers":[ {
+                "answer":"<img src=\"https:\/\/ikizamini.com\/wp-content\/uploads\/2016\/08\/120px-Norwegian-road-sign-214.0.svg_.png\" width=\"200px\" height=\"\">",
+                "img":"",
+                "id":"{{ID}}",
+                "hint": ""
+            }
+            ,
+            {
+                "answer":"<img src=\"https:\/\/ikizamini.com\/wp-content\/uploads\/2016\/08\/220px-Spain_traffic_signal_r3.svg_.png\" width=\"200px\" height=\"\">",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"<img src=\"https:\/\/ikizamini.com\/wp-content\/uploads\/2016\/08\/TIGO_CASH_LOGO_0-1.png\" width=\"200px\" height=\"\">",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"<img src=\"https:\/\/ikizamini.com\/wp-content\/uploads\/2016\/08\/warning-sign-two-way-traffic-ahead.jpg\" width=\"200px\" height=\"\">",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ]
+        }
+        ,
+        {
+            "question":"\tBuri modoka igomba kugira ikintu kiyibuza kwibwa gituma itava aho iri cyangwa kigafunga icyuma cyayo cy\u2019ingenzi igihe:\r\n",
+            "img":"",
+            "id":"{{ID}}",
+            "answers":[ {
+                "answer":"Ihagaritswe igihe kirekire",
+                "img":"",
+                "id":"{{ID}}",
+                "hint": ""
+            }
+            ,
+            {
+                "answer":"Ihagaritswe umwanya muto cyangwa munini",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Ihagaritwse umwanya muto",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Nta gisubizo cy\u2019ukuri kirimo",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ]
+        }
+        ,
+        {
+            "question":"Nta kinyabiziga gifite moteri gishobora kugenda mu muhanda ahamanuka igihe moteri itaka cyangwa igihe vitensi idakora keretse:\r\n",
+            "img":"",
+            "id":"{{ID}}",
+            "answers":[ {
+                "answer":"Igihe gikururwa n\u2019ikindi kinyabiziga ",
+                "img":"",
+                "id":"{{ID}}",
+                "hint": ""
+            }
+            ,
+            {
+                "answer":"Iyo icyo kinyabiziga cyapfuye ",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Iyo umuhanda urimo ibinyabiziga bike.\r\n",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Iyo lisansi cyangwa mazutu byamushiranye agirango agere kuri station.",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ]
+        }
+        ,
+        {
+            "question":"\tIjambo \u201cAmatara ndangambere\u201d bivuga:\r\n",
+            "img":"",
+            "id":"{{ID}}",
+            "answers":[ {
+                "answer":"Amatara y\u2019ikinyabiziga akiranga kandi akagaragaza ubugari bwacyo burebewe imbere",
+                "img":"",
+                "id":"{{ID}}",
+                "hint": ""
+            }
+            ,
+            {
+                "answer":"Amatara y\u2019ikinyabiziga akiranga kandi akagaragaza uburebure bwacyo burebewe inyuma",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Amatara yerekana icyerekezo umuyobozi ashaka kuganamo birebewe imbere",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Nta gisubizo cy\u2019ukuri kirimo",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ]
+        }
+        ,
+        {
+            "question":"\tAbanyamaguru bagomba kureka abanyamagare n\u2019abagendera kuri velomoteri bagahita igihe abanyamaguru:\r\n",
+            "img":"",
+            "id":"{{ID}}",
+            "answers":[ {
+                "answer":"Banyuze mu kayira k\u2019abanyamagare",
+                "img":"",
+                "id":"{{ID}}",
+                "hint": ""
+            }
+            ,
+            {
+                "answer":"Bambukiranya umuhanda mu myanya yabugenewe",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Banyuze mu muhanda cyangwa ku nkengero yegutse",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Nta gisubizo cy\u2019ukuri kirimo",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ]
+        }
+        ,
+        {
+            "question":"\tBirabujijwe gukoresha amahoni cyangwa gusakurisha cyane moteri ahegereye:\r\n \r\n \r\n",
+            "img":"",
+            "id":"{{ID}}",
+            "answers":[ {
+                "answer":"Inyamanswa zikuruye ibintu cyangwa amatungo",
+                "img":"",
+                "id":"{{ID}}",
+                "hint": ""
+            }
+            ,
+            {
+                "answer":"Uruhererekane",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Ibinyabiziga ndakumirwa",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Nta gisubizo cy\u2019ukuri kirimo",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ]
+        }
+        ,
+        {
+            "question":"\tUtuyira turi ku mpande z\u2019umuhanda n\u2019inkengero zigiye hejuru bihariwe abanyamaguru:\r\n",
+            "img":"",
+            "id":"{{ID}}",
+            "answers":[ {
+                "answer":"Keretse iyo hari amategeko yihariye yerekanwa n\u2019ibimenyetso",
+                "img":"",
+                "id":"{{ID}}",
+                "hint": ""
+            }
+            ,
+            {
+                "answer":"Keretse iyo umuhanda udafite akayira k\u2019abanyamagare kagendeka. ",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Igihe cyose",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Keretse iyo hari amategeko yihariye yashyizweho n\u2019umukuru w\u2019intara",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ]
+        }
+        ,
+        {
+            "question":"\tInkombe mpimbano y\u2019umuhanda ishobora kugaragazwa\r\n\r\n",
+            "img":"",
+            "id":"{{ID}}",
+            "answers":[ {
+                "answer":"N\u2019umurongo mugari wera udacagaguye",
+                "img":"",
+                "id":"{{ID}}",
+                "hint": ""
+            }
+            ,
+            {
+                "answer":"N\u2019umurongo mugari wera ucagaguye",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"N\u2019umurongo wera udacagaguye",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"N\u2019umurongo w\u2019umuhondo ucagaguye",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ]
+        }
+        ,
+        {
+            "question":"\tImyanya ibinyabiziga bigomba guhagararamo ishobora kugaragazwa:\r\n",
+            "img":"",
+            "id":"{{ID}}",
+            "answers":[ {
+                "answer":"N\u2019imirongo yera yambukiranya umuhanda",
+                "img":"",
+                "id":"{{ID}}",
+                "hint": ""
+            }
+            ,
+            {
+                "answer":"N\u2019imirongo yera icagaguye",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"N\u2019imirongo yera irombereje",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Nta gisubizo cy\u2019ukuri kirimo",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ]
+        }
+        ,
+        {
+            "question":"\tAmatara ndangaburumbarare agomba kubonwa n\u2019ijoro igihe ijuru rikeye n\u2019umuyobozi w\u2019ikinyabiziga kiri ku ntera ya:\r\n",
+            "img":"",
+            "id":"{{ID}}",
+            "answers":[ {
+                "answer":"Metero 200 nibura",
+                "img":"",
+                "id":"{{ID}}",
+                "hint": ""
+            }
+            ,
+            {
+                "answer":"Metero 100 nibura",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Metero 150 nibura",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Metero 300 nibura ",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ]
+        }
+        ,
+        {
+            "question":"\tIyo hatari utuyira two ku mpande z\u2019umuhanda cyangwa inkengero zigiye hejuru cyangwa bidashobora kugendwa, abanyamaguru bagomba kunyura:\r\n",
+            "img":"",
+            "id":"{{ID}}",
+            "answers":[ {
+                "answer":"Mu tuyira turi ku masezero w\u2019umuhanda",
+                "img":"",
+                "id":"{{ID}}",
+                "hint": ""
+            }
+            ,
+            {
+                "answer":"Mu kayira k\u2019abanyamagare cyangwa mu muhanda",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Mu butaka butsindagiye butandukanya ibisate bibiri by\u2019umuhande\r\n",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Nta gisubizo cy\u2019ukuri kirimo",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ]
+        }
+        ,
+        {
+            "question":"\tAbanyamaguru batatanye cyangwa bagize udutsiko tudafatanyije gahunda kandi batanayobowe n\u2019umwarimu bategetswe kunyura: \r\n",
+            "img":"",
+            "id":"{{ID}}",
+            "answers":[ {
+                "answer":"Mu tuyira turi ku mpande z\u2019umuhanda cyangwa ku nkengero zigiye hejuru",
+                "img":"",
+                "id":"{{ID}}",
+                "hint": ""
+            }
+            ,
+            {
+                "answer":"Mu kayira k\u2019abanyamagare cyangwa mu muhanda ",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Mu butaka butsindagiye butandukanya ibisate bibiri by\u2019umuhanda",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ,
+            {
+                "answer":"Nta gisubizo cy\u2019ukuri kirimo",
+                "img":"",
+                "id":"{{ID}}"
+            }
+            ]
+        }
+        ],
+        "quiz_results":[],
+        "quiz_settings": {
+            "quiz_type": "mc", "hide_answers": "", "result_mode": ""
+        }
+        ,
+        "wrong_string":"Wrong!",
+        "correct_string":"Correct!",
+        "your_answer_string":"Your answer:",
+        "correct_answer_string":"Correct answer:",
+        "optin_settings":[],
+        "nonce":"7825d1cf2a",
+        "ajaxurl":"https:\/\/ikizamini.com\/wp-admin\/admin-ajax.php",
+        "default_img":"https:\/\/ikizamini.com\/wp-content\/plugins\/quiz-cat\/assets\/quizcat-240x240.png",
+        "gdpr_checkbox":""
+    }
+    
+}
